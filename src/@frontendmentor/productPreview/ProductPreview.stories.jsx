@@ -7,6 +7,6 @@ const meta = {
 
 export default meta;
 
-export const Primary = {
+export const Desktop = {
   render: () => <div className="bg-orange-100 w-screen h-screen grid place-items-center"><ProductPreview /></div>,
 };
